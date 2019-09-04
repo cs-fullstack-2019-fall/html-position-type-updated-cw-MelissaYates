@@ -1,0 +1,46 @@
+header{
+    text-align: left;
+    background-color: gray;
+    padding: 10px;
+
+}
+#span1{
+    text-align: center;
+}
+
+aside{
+    float: right;
+    background-color: gray;
+    text-align: center;
+    width: 800px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+body{
+    border: 10px;
+    border-color: whitesmoke;
+    background-color: lightgray;
+}
+
+section{
+    float:left;
+    background-color: gray;
+    position: absolute;
+    text-align: center;
+    width: 800px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: gray;
+    padding: 10px;
+}
+.boxed{
+    border: 10px solid lightgray;
+
+}
